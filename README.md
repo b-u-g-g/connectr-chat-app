@@ -18,9 +18,16 @@ ConectR- chat app
 
 
 
-![Screenshot 2024-06-07 004826](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/9ff7529f-479d-4c28-a5a4-72f465c232a3)
-![Screenshot 2024-06-07 002409](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/3d748d79-ed48-45ab-a184-8874c3fe6354)
-![Screenshot 2024-06-07 002339](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/27bccbd2-a486-4255-8676-fc8a8b35526c)
-![Screenshot 2024-06-07 002252](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/8597fc1b-321c-4e3b-b49e-fdee7d12bb8e)
 
+
+
+
+
+
+
+
+![Screenshot 2024-06-07 002252](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/8597fc1b-321c-4e3b-b49e-fdee7d12bb8e)
+![Screenshot 2024-06-07 002339](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/27bccbd2-a486-4255-8676-fc8a8b35526c)
+![Screenshot 2024-06-07 002409](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/3d748d79-ed48-45ab-a184-8874c3fe6354)
+![Screenshot 2024-06-07 004826](https://github.com/b-u-g-g/connectr-chat-app/assets/147278023/9ff7529f-479d-4c28-a5a4-72f465c232a3)
 
